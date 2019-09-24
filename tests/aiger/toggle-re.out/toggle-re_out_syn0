@@ -1,0 +1,1402 @@
+#OUT#
+#OUT# ==== ../toggle-re.aig  ====
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 11 0 01                 1000           0
+#OUT# 00 1 10                 1400           1
+#OUT# 00 1 10                 1800           2
+#OUT# 00 1 10                 2200           3
+#OUT# 00 0 10                 2600           4
+#OUT# 01 1 10                 3000           5
+#OUT# 10 1 10                 3400           6
+#OUT# 01 1 10                 3800           7
+#OUT# 10 0 10                 4200           8
+#OUT# 11 1 01                 4600           9
+#OUT# 00 1 01                 5000          10
+#OUT# 10 1 01                 5400          11
+#OUT# 10 1 01                 5800          12
+#OUT# 01 0 01                 6200          13
+#OUT# 10 0 01                 6600          14
+#OUT# 10 1 10                 7000          15
+#OUT# 10 0 10                 7400          16
+#OUT# 00 0 10                 7800          17
+#OUT# 00 1 10                 8200          18
+#OUT# 10 0 10                 8600          19
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 10 0 10                 9000          20
+#OUT# 01 0 10                 9400          21
+#OUT# 01 0 10                 9800          22
+#OUT# 01 1 10                10200          23
+#OUT# 00 1 10                10600          24
+#OUT# 10 0 10                11000          25
+#OUT# 10 1 10                11400          26
+#OUT# 11 0 10                11800          27
+#OUT# 11 1 01                12200          28
+#OUT# 00 1 01                12600          29
+#OUT# 11 1 01                13000          30
+#OUT# 11 0 01                13400          31
+#OUT# 01 1 01                13800          32
+#OUT# 01 1 01                14200          33
+#OUT# 11 1 01                14600          34
+#OUT# 10 1 01                15000          35
+#OUT# 10 0 01                15400          36
+#OUT# 00 1 10                15800          37
+#OUT# 00 1 10                16200          38
+#OUT# 10 0 10                16600          39
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 11 1 01                17000          40
+#OUT# 00 0 01                17400          41
+#OUT# 11 0 01                17800          42
+#OUT# 10 0 01                18200          43
+#OUT# 11 0 01                18600          44
+#OUT# 00 1 10                19000          45
+#OUT# 01 1 10                19400          46
+#OUT# 11 0 10                19800          47
+#OUT# 00 1 10                20200          48
+#OUT# 10 0 10                20600          49
+#OUT# 01 0 10                21000          50
+#OUT# 11 0 10                21400          51
+#OUT# 01 1 10                21800          52
+#OUT# 11 1 10                22200          53
+#OUT# 10 1 10                22600          54
+#OUT# 11 0 10                23000          55
+#OUT# 11 1 01                23400          56
+#OUT# 10 1 01                23800          57
+#OUT# 10 1 01                24200          58
+#OUT# 01 1 01                24600          59
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 10 0 01                25000          60
+#OUT# 11 1 10                25400          61
+#OUT# 01 1 10                25800          62
+#OUT# 10 1 10                26200          63
+#OUT# 10 1 10                26600          64
+#OUT# 01 1 10                27000          65
+#OUT# 01 1 10                27400          66
+#OUT# 11 0 10                27800          67
+#OUT# 11 1 01                28200          68
+#OUT# 11 1 01                28600          69
+#OUT# 11 0 01                29000          70
+#OUT# 11 0 01                29400          71
+#OUT# 00 1 10                29800          72
+#OUT# 00 0 10                30200          73
+#OUT# 00 0 10                30600          74
+#OUT# 11 1 01                31000          75
+#OUT# 01 0 01                31400          76
+#OUT# 00 1 10                31800          77
+#OUT# 10 1 10                32200          78
+#OUT# 00 1 10                32600          79
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 01 0 10                33000          80
+#OUT# 10 1 10                33400          81
+#OUT# 01 1 10                33800          82
+#OUT# 00 1 10                34200          83
+#OUT# 10 1 10                34600          84
+#OUT# 00 1 10                35000          85
+#OUT# 10 0 10                35400          86
+#OUT# 10 0 10                35800          87
+#OUT# 01 0 10                36200          88
+#OUT# 00 0 10                36600          89
+#OUT# 10 0 10                37000          90
+#OUT# 00 0 10                37400          91
+#OUT# 11 0 10                37800          92
+#OUT# 00 0 10                38200          93
+#OUT# 11 1 01                38600          94
+#OUT# 10 1 01                39000          95
+#OUT# 10 0 01                39400          96
+#OUT# 10 0 01                39800          97
+#OUT# 11 0 01                40200          98
+#OUT# 01 1 01                40600          99
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 01 0 01                41000         100
+#OUT# 01 1 01                41400         101
+#OUT# 01 1 01                41800         102
+#OUT# 11 1 01                42200         103
+#OUT# 10 1 01                42600         104
+#OUT# 11 0 01                43000         105
+#OUT# 11 1 10                43400         106
+#OUT# 11 1 10                43800         107
+#OUT# 10 1 10                44200         108
+#OUT# 00 1 10                44600         109
+#OUT# 11 1 10                45000         110
+#OUT# 01 1 10                45400         111
+#OUT# 11 0 10                45800         112
+#OUT# 01 0 10                46200         113
+#OUT# 11 0 10                46600         114
+#OUT# 10 1 10                47000         115
+#OUT# 00 1 10                47400         116
+#OUT# 10 1 10                47800         117
+#OUT# 11 0 10                48200         118
+#OUT# 00 1 10                48600         119
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 00 1 10                49000         120
+#OUT# 10 1 10                49400         121
+#OUT# 01 0 10                49800         122
+#OUT# 01 0 10                50200         123
+#OUT# 11 0 10                50600         124
+#OUT# 00 1 10                51000         125
+#OUT# 11 1 10                51400         126
+#OUT# 10 0 10                51800         127
+#OUT# 00 1 10                52200         128
+#OUT# 11 0 10                52600         129
+#OUT# 11 0 10                53000         130
+#OUT# 11 1 01                53400         131
+#OUT# 01 1 01                53800         132
+#OUT# 01 1 01                54200         133
+#OUT# 01 0 01                54600         134
+#OUT# 10 0 01                55000         135
+#OUT# 01 1 01                55400         136
+#OUT# 01 0 01                55800         137
+#OUT# 00 1 10                56200         138
+#OUT# 00 1 10                56600         139
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 11 0 10                57000         140
+#OUT# 10 0 10                57400         141
+#OUT# 10 0 10                57800         142
+#OUT# 00 0 10                58200         143
+#OUT# 10 1 10                58600         144
+#OUT# 11 0 10                59000         145
+#OUT# 10 0 10                59400         146
+#OUT# 01 1 10                59800         147
+#OUT# 10 1 10                60200         148
+#OUT# 01 0 10                60600         149
+#OUT# 11 1 01                61000         150
+#OUT# 11 0 01                61400         151
+#OUT# 11 1 10                61800         152
+#OUT# 10 0 10                62200         153
+#OUT# 11 1 01                62600         154
+#OUT# 11 0 01                63000         155
+#OUT# 01 1 01                63400         156
+#OUT# 01 1 01                63800         157
+#OUT# 11 0 01                64200         158
+#OUT# 00 1 10                64600         159
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 11 1 10                65000         160
+#OUT# 01 0 10                65400         161
+#OUT# 10 0 10                65800         162
+#OUT# 10 1 10                66200         163
+#OUT# 00 0 10                66600         164
+#OUT# 00 0 10                67000         165
+#OUT# 00 0 10                67400         166
+#OUT# 11 0 10                67800         167
+#OUT# 01 0 10                68200         168
+#OUT# 01 0 10                68600         169
+#OUT# 01 0 10                69000         170
+#OUT# 01 0 10                69400         171
+#OUT# 11 1 01                69800         172
+#OUT# 00 1 01                70200         173
+#OUT# 00 1 01                70600         174
+#OUT# 01 1 01                71000         175
+#OUT# 00 1 01                71400         176
+#OUT# 10 0 01                71800         177
+#OUT# 00 0 01                72200         178
+#OUT# 10 1 10                72600         179
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 00 0 10                73000         180
+#OUT# 11 0 10                73400         181
+#OUT# 10 0 10                73800         182
+#OUT# 11 1 01                74200         183
+#OUT# 10 0 01                74600         184
+#OUT# 01 0 01                75000         185
+#OUT# 11 1 10                75400         186
+#OUT# 01 0 10                75800         187
+#OUT# 11 1 01                76200         188
+#OUT# 00 1 01                76600         189
+#OUT# 10 1 01                77000         190
+#OUT# 11 1 01                77400         191
+#OUT# 10 0 01                77800         192
+#OUT# 10 1 10                78200         193
+#OUT# 01 1 10                78600         194
+#OUT# 01 1 10                79000         195
+#OUT# 10 0 10                79400         196
+#OUT# 01 0 10                79800         197
+#OUT# 11 1 01                80200         198
+#OUT# 10 0 01                80600         199
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 00 0 01                81000         200
+#OUT# 00 0 01                81400         201
+#OUT# 11 0 01                81800         202
+#OUT# 01 1 01                82200         203
+#OUT# 11 0 01                82600         204
+#OUT# 11 0 01                83000         205
+#OUT# 10 0 01                83400         206
+#OUT# 11 0 01                83800         207
+#OUT# 10 0 01                84200         208
+#OUT# 11 0 01                84600         209
+#OUT# 11 1 10                85000         210
+#OUT# 10 0 10                85400         211
+#OUT# 11 0 10                85800         212
+#OUT# 10 0 10                86200         213
+#OUT# 10 1 10                86600         214
+#OUT# 11 1 10                87000         215
+#OUT# 10 0 10                87400         216
+#OUT# 00 0 10                87800         217
+#OUT# 10 1 10                88200         218
+#OUT# 10 0 10                88600         219
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 01 0 10                89000         220
+#OUT# 01 1 10                89400         221
+#OUT# 00 1 10                89800         222
+#OUT# 01 1 10                90200         223
+#OUT# 01 0 10                90600         224
+#OUT# 00 1 10                91000         225
+#OUT# 01 1 10                91400         226
+#OUT# 01 0 10                91800         227
+#OUT# 11 1 01                92200         228
+#OUT# 11 1 01                92600         229
+#OUT# 01 0 01                93000         230
+#OUT# 00 1 10                93400         231
+#OUT# 00 0 10                93800         232
+#OUT# 01 1 10                94200         233
+#OUT# 00 1 10                94600         234
+#OUT# 00 1 10                95000         235
+#OUT# 10 0 10                95400         236
+#OUT# 10 1 10                95800         237
+#OUT# 11 0 10                96200         238
+#OUT# 00 0 10                96600         239
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 01 1 10                97000         240
+#OUT# 10 0 10                97400         241
+#OUT# 00 1 10                97800         242
+#OUT# 01 1 10                98200         243
+#OUT# 01 1 10                98600         244
+#OUT# 00 1 10                99000         245
+#OUT# 00 1 10                99400         246
+#OUT# 01 0 10                99800         247
+#OUT# 00 0 10               100200         248
+#OUT# 10 0 10               100600         249
+#OUT# 00 1 10               101000         250
+#OUT# 11 1 10               101400         251
+#OUT# 01 0 10               101800         252
+#OUT# 01 1 10               102200         253
+#OUT# 11 0 10               102600         254
+#OUT# 00 1 10               103000         255
+#OUT# 11 1 10               103400         256
+#OUT# 11 1 10               103800         257
+#OUT# 00 1 10               104200         258
+#OUT# 10 0 10               104600         259
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 01 1 10               105000         260
+#OUT# 01 1 10               105400         261
+#OUT# 11 1 10               105800         262
+#OUT# 00 0 10               106200         263
+#OUT# 00 1 10               106600         264
+#OUT# 01 0 10               107000         265
+#OUT# 00 0 10               107400         266
+#OUT# 11 0 10               107800         267
+#OUT# 11 1 01               108200         268
+#OUT# 10 1 01               108600         269
+#OUT# 10 0 01               109000         270
+#OUT# 11 0 01               109400         271
+#OUT# 01 0 01               109800         272
+#OUT# 10 1 10               110200         273
+#OUT# 11 1 10               110600         274
+#OUT# 11 0 10               111000         275
+#OUT# 00 1 10               111400         276
+#OUT# 01 0 10               111800         277
+#OUT# 00 0 10               112200         278
+#OUT# 10 1 10               112600         279
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 00 0 10               113000         280
+#OUT# 00 1 10               113400         281
+#OUT# 00 0 10               113800         282
+#OUT# 00 0 10               114200         283
+#OUT# 11 1 01               114600         284
+#OUT# 10 1 01               115000         285
+#OUT# 01 0 01               115400         286
+#OUT# 11 1 10               115800         287
+#OUT# 00 1 10               116200         288
+#OUT# 11 1 10               116600         289
+#OUT# 00 1 10               117000         290
+#OUT# 10 1 10               117400         291
+#OUT# 10 1 10               117800         292
+#OUT# 10 0 10               118200         293
+#OUT# 01 0 10               118600         294
+#OUT# 11 1 01               119000         295
+#OUT# 11 1 01               119400         296
+#OUT# 11 1 01               119800         297
+#OUT# 01 0 01               120200         298
+#OUT# 11 1 10               120600         299
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 01 0 10               121000         300
+#OUT# 10 1 10               121400         301
+#OUT# 01 1 10               121800         302
+#OUT# 00 0 10               122200         303
+#OUT# 01 1 10               122600         304
+#OUT# 10 1 10               123000         305
+#OUT# 10 0 10               123400         306
+#OUT# 01 1 10               123800         307
+#OUT# 00 0 10               124200         308
+#OUT# 11 1 01               124600         309
+#OUT# 01 0 01               125000         310
+#OUT# 01 1 01               125400         311
+#OUT# 10 0 01               125800         312
+#OUT# 10 0 01               126200         313
+#OUT# 10 0 01               126600         314
+#OUT# 10 0 01               127000         315
+#OUT# 11 0 01               127400         316
+#OUT# 00 1 10               127800         317
+#OUT# 11 1 10               128200         318
+#OUT# 01 1 10               128600         319
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 10 1 10               129000         320
+#OUT# 11 0 10               129400         321
+#OUT# 10 1 10               129800         322
+#OUT# 01 1 10               130200         323
+#OUT# 10 1 10               130600         324
+#OUT# 01 0 10               131000         325
+#OUT# 00 0 10               131400         326
+#OUT# 11 1 01               131800         327
+#OUT# 11 0 01               132200         328
+#OUT# 01 0 01               132600         329
+#OUT# 11 1 10               133000         330
+#OUT# 10 1 10               133400         331
+#OUT# 00 1 10               133800         332
+#OUT# 00 1 10               134200         333
+#OUT# 10 0 10               134600         334
+#OUT# 11 1 01               135000         335
+#OUT# 00 1 01               135400         336
+#OUT# 01 1 01               135800         337
+#OUT# 11 1 01               136200         338
+#OUT# 00 1 01               136600         339
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 01 0 01               137000         340
+#OUT# 01 0 01               137400         341
+#OUT# 00 1 10               137800         342
+#OUT# 00 0 10               138200         343
+#OUT# 11 0 10               138600         344
+#OUT# 10 1 10               139000         345
+#OUT# 10 0 10               139400         346
+#OUT# 11 1 01               139800         347
+#OUT# 11 0 01               140200         348
+#OUT# 00 0 01               140600         349
+#OUT# 10 0 01               141000         350
+#OUT# 01 1 01               141400         351
+#OUT# 00 0 01               141800         352
+#OUT# 01 0 01               142200         353
+#OUT# 11 0 01               142600         354
+#OUT# 01 0 01               143000         355
+#OUT# 01 0 01               143400         356
+#OUT# 01 0 01               143800         357
+#OUT# 11 1 10               144200         358
+#OUT# 00 0 10               144600         359
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 10 1 10               145000         360
+#OUT# 10 0 10               145400         361
+#OUT# 11 0 10               145800         362
+#OUT# 11 0 10               146200         363
+#OUT# 01 0 10               146600         364
+#OUT# 00 1 10               147000         365
+#OUT# 10 1 10               147400         366
+#OUT# 10 0 10               147800         367
+#OUT# 00 0 10               148200         368
+#OUT# 10 0 10               148600         369
+#OUT# 00 0 10               149000         370
+#OUT# 10 0 10               149400         371
+#OUT# 00 1 10               149800         372
+#OUT# 00 0 10               150200         373
+#OUT# 10 1 10               150600         374
+#OUT# 10 1 10               151000         375
+#OUT# 10 1 10               151400         376
+#OUT# 01 0 10               151800         377
+#OUT# 11 1 01               152200         378
+#OUT# 01 0 01               152600         379
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 01 0 01               153000         380
+#OUT# 01 0 01               153400         381
+#OUT# 10 0 01               153800         382
+#OUT# 10 0 01               154200         383
+#OUT# 01 1 01               154600         384
+#OUT# 00 1 01               155000         385
+#OUT# 01 0 01               155400         386
+#OUT# 00 1 10               155800         387
+#OUT# 11 1 10               156200         388
+#OUT# 00 1 10               156600         389
+#OUT# 10 1 10               157000         390
+#OUT# 10 1 10               157400         391
+#OUT# 00 1 10               157800         392
+#OUT# 01 1 10               158200         393
+#OUT# 00 1 10               158600         394
+#OUT# 00 0 10               159000         395
+#OUT# 01 0 10               159400         396
+#OUT# 01 0 10               159800         397
+#OUT# 00 0 10               160200         398
+#OUT# 10 0 10               160600         399
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 10 1 10               161000         400
+#OUT# 01 0 10               161400         401
+#OUT# 01 1 10               161800         402
+#OUT# 11 0 10               162200         403
+#OUT# 01 1 10               162600         404
+#OUT# 10 1 10               163000         405
+#OUT# 01 0 10               163400         406
+#OUT# 10 1 10               163800         407
+#OUT# 10 0 10               164200         408
+#OUT# 00 0 10               164600         409
+#OUT# 11 1 01               165000         410
+#OUT# 11 0 01               165400         411
+#OUT# 00 0 01               165800         412
+#OUT# 10 0 01               166200         413
+#OUT# 01 1 01               166600         414
+#OUT# 00 1 01               167000         415
+#OUT# 11 0 01               167400         416
+#OUT# 10 0 01               167800         417
+#OUT# 11 1 10               168200         418
+#OUT# 01 1 10               168600         419
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 10 1 10               169000         420
+#OUT# 10 0 10               169400         421
+#OUT# 00 1 10               169800         422
+#OUT# 11 0 10               170200         423
+#OUT# 10 0 10               170600         424
+#OUT# 10 0 10               171000         425
+#OUT# 10 0 10               171400         426
+#OUT# 11 1 01               171800         427
+#OUT# 10 0 01               172200         428
+#OUT# 00 0 01               172600         429
+#OUT# 10 0 01               173000         430
+#OUT# 01 1 01               173400         431
+#OUT# 01 0 01               173800         432
+#OUT# 01 0 01               174200         433
+#OUT# 10 1 10               174600         434
+#OUT# 01 1 10               175000         435
+#OUT# 01 0 10               175400         436
+#OUT# 10 1 10               175800         437
+#OUT# 00 1 10               176200         438
+#OUT# 01 0 10               176600         439
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 10 0 10               177000         440
+#OUT# 00 1 10               177400         441
+#OUT# 00 0 10               177800         442
+#OUT# 10 0 10               178200         443
+#OUT# 00 0 10               178600         444
+#OUT# 11 0 10               179000         445
+#OUT# 00 0 10               179400         446
+#OUT# 10 0 10               179800         447
+#OUT# 10 1 10               180200         448
+#OUT# 11 0 10               180600         449
+#OUT# 01 0 10               181000         450
+#OUT# 00 1 10               181400         451
+#OUT# 11 0 10               181800         452
+#OUT# 11 1 01               182200         453
+#OUT# 01 1 01               182600         454
+#OUT# 01 1 01               183000         455
+#OUT# 10 1 01               183400         456
+#OUT# 01 1 01               183800         457
+#OUT# 00 1 01               184200         458
+#OUT# 00 0 01               184600         459
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 01 1 01               185000         460
+#OUT# 01 0 01               185400         461
+#OUT# 11 0 01               185800         462
+#OUT# 00 0 01               186200         463
+#OUT# 00 1 10               186600         464
+#OUT# 01 0 10               187000         465
+#OUT# 10 1 10               187400         466
+#OUT# 00 0 10               187800         467
+#OUT# 11 0 10               188200         468
+#OUT# 10 1 10               188600         469
+#OUT# 11 0 10               189000         470
+#OUT# 00 0 10               189400         471
+#OUT# 01 1 10               189800         472
+#OUT# 01 0 10               190200         473
+#OUT# 11 1 01               190600         474
+#OUT# 01 1 01               191000         475
+#OUT# 00 1 01               191400         476
+#OUT# 10 0 01               191800         477
+#OUT# 00 0 01               192200         478
+#OUT# 01 1 01               192600         479
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 10 0 01               193000         480
+#OUT# 01 1 01               193400         481
+#OUT# 00 1 01               193800         482
+#OUT# 00 1 01               194200         483
+#OUT# 10 0 01               194600         484
+#OUT# 11 1 10               195000         485
+#OUT# 10 1 10               195400         486
+#OUT# 00 1 10               195800         487
+#OUT# 01 1 10               196200         488
+#OUT# 00 1 10               196600         489
+#OUT# 11 1 10               197000         490
+#OUT# 11 1 10               197400         491
+#OUT# 00 0 10               197800         492
+#OUT# 10 0 10               198200         493
+#OUT# 00 1 10               198600         494
+#OUT# 10 1 10               199000         495
+#OUT# 11 1 10               199400         496
+#OUT# 10 1 10               199800         497
+#OUT# 01 0 10               200200         498
+#OUT# 10 1 10               200600         499
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 10 1 10               201000         500
+#OUT# 10 1 10               201400         501
+#OUT# 01 0 10               201800         502
+#OUT# 11 0 10               202200         503
+#OUT# 00 1 10               202600         504
+#OUT# 00 1 10               203000         505
+#OUT# 11 0 10               203400         506
+#OUT# 10 1 10               203800         507
+#OUT# 10 1 10               204200         508
+#OUT# 00 1 10               204600         509
+#OUT# 00 1 10               205000         510
+#OUT# 11 1 10               205400         511
+#OUT# 11 0 10               205800         512
+#OUT# 00 0 10               206200         513
+#OUT# 01 1 10               206600         514
+#OUT# 01 0 10               207000         515
+#OUT# 11 1 01               207400         516
+#OUT# 00 1 01               207800         517
+#OUT# 10 1 01               208200         518
+#OUT# 10 0 01               208600         519
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 01 1 01               209000         520
+#OUT# 01 1 01               209400         521
+#OUT# 10 0 01               209800         522
+#OUT# 00 0 01               210200         523
+#OUT# 10 0 01               210600         524
+#OUT# 01 0 01               211000         525
+#OUT# 00 0 01               211400         526
+#OUT# 10 1 10               211800         527
+#OUT# 01 0 10               212200         528
+#OUT# 01 0 10               212600         529
+#OUT# 00 1 10               213000         530
+#OUT# 10 0 10               213400         531
+#OUT# 01 1 10               213800         532
+#OUT# 00 0 10               214200         533
+#OUT# 00 0 10               214600         534
+#OUT# 10 1 10               215000         535
+#OUT# 00 1 10               215400         536
+#OUT# 01 1 10               215800         537
+#OUT# 01 0 10               216200         538
+#OUT# 01 0 10               216600         539
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 01 0 10               217000         540
+#OUT# 01 0 10               217400         541
+#OUT# 10 1 10               217800         542
+#OUT# 11 1 10               218200         543
+#OUT# 11 1 10               218600         544
+#OUT# 00 0 10               219000         545
+#OUT# 10 0 10               219400         546
+#OUT# 10 0 10               219800         547
+#OUT# 11 0 10               220200         548
+#OUT# 01 1 10               220600         549
+#OUT# 00 1 10               221000         550
+#OUT# 11 1 10               221400         551
+#OUT# 00 1 10               221800         552
+#OUT# 00 1 10               222200         553
+#OUT# 11 0 10               222600         554
+#OUT# 01 1 10               223000         555
+#OUT# 11 0 10               223400         556
+#OUT# 01 0 10               223800         557
+#OUT# 11 1 01               224200         558
+#OUT# 00 1 01               224600         559
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 00 1 01               225000         560
+#OUT# 01 0 01               225400         561
+#OUT# 00 1 10               225800         562
+#OUT# 00 1 10               226200         563
+#OUT# 11 1 10               226600         564
+#OUT# 00 0 10               227000         565
+#OUT# 11 0 10               227400         566
+#OUT# 00 1 10               227800         567
+#OUT# 11 0 10               228200         568
+#OUT# 01 1 10               228600         569
+#OUT# 01 1 10               229000         570
+#OUT# 10 0 10               229400         571
+#OUT# 01 1 10               229800         572
+#OUT# 11 1 10               230200         573
+#OUT# 00 0 10               230600         574
+#OUT# 01 1 10               231000         575
+#OUT# 01 0 10               231400         576
+#OUT# 01 0 10               231800         577
+#OUT# 00 0 10               232200         578
+#OUT# 00 1 10               232600         579
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 10 0 10               233000         580
+#OUT# 01 0 10               233400         581
+#OUT# 01 1 10               233800         582
+#OUT# 10 1 10               234200         583
+#OUT# 11 1 10               234600         584
+#OUT# 01 1 10               235000         585
+#OUT# 11 1 10               235400         586
+#OUT# 00 0 10               235800         587
+#OUT# 00 1 10               236200         588
+#OUT# 11 1 10               236600         589
+#OUT# 00 0 10               237000         590
+#OUT# 01 0 10               237400         591
+#OUT# 01 0 10               237800         592
+#OUT# 11 1 01               238200         593
+#OUT# 01 0 01               238600         594
+#OUT# 10 0 01               239000         595
+#OUT# 01 1 01               239400         596
+#OUT# 01 1 01               239800         597
+#OUT# 11 0 01               240200         598
+#OUT# 01 0 01               240600         599
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 10 0 01               241000         600
+#OUT# 00 1 10               241400         601
+#OUT# 11 1 10               241800         602
+#OUT# 01 0 10               242200         603
+#OUT# 10 0 10               242600         604
+#OUT# 10 0 10               243000         605
+#OUT# 11 0 10               243400         606
+#OUT# 11 0 10               243800         607
+#OUT# 11 0 10               244200         608
+#OUT# 11 1 01               244600         609
+#OUT# 01 1 01               245000         610
+#OUT# 10 1 01               245400         611
+#OUT# 11 1 01               245800         612
+#OUT# 00 0 01               246200         613
+#OUT# 00 0 01               246600         614
+#OUT# 11 0 01               247000         615
+#OUT# 01 1 01               247400         616
+#OUT# 00 0 01               247800         617
+#OUT# 11 1 10               248200         618
+#OUT# 00 1 10               248600         619
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 11 1 10               249000         620
+#OUT# 01 1 10               249400         621
+#OUT# 11 1 10               249800         622
+#OUT# 01 0 10               250200         623
+#OUT# 10 1 10               250600         624
+#OUT# 10 1 10               251000         625
+#OUT# 01 0 10               251400         626
+#OUT# 00 1 10               251800         627
+#OUT# 01 0 10               252200         628
+#OUT# 11 0 10               252600         629
+#OUT# 00 1 10               253000         630
+#OUT# 00 1 10               253400         631
+#OUT# 01 1 10               253800         632
+#OUT# 01 0 10               254200         633
+#OUT# 01 1 10               254600         634
+#OUT# 00 1 10               255000         635
+#OUT# 10 0 10               255400         636
+#OUT# 11 0 10               255800         637
+#OUT# 10 0 10               256200         638
+#OUT# 00 0 10               256600         639
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 11 1 01               257000         640
+#OUT# 01 1 01               257400         641
+#OUT# 00 1 01               257800         642
+#OUT# 00 0 01               258200         643
+#OUT# 01 0 01               258600         644
+#OUT# 10 0 01               259000         645
+#OUT# 10 1 10               259400         646
+#OUT# 01 1 10               259800         647
+#OUT# 00 1 10               260200         648
+#OUT# 00 1 10               260600         649
+#OUT# 01 0 10               261000         650
+#OUT# 11 1 01               261400         651
+#OUT# 11 1 01               261800         652
+#OUT# 01 0 01               262200         653
+#OUT# 11 0 01               262600         654
+#OUT# 11 0 01               263000         655
+#OUT# 10 1 10               263400         656
+#OUT# 10 1 10               263800         657
+#OUT# 00 0 10               264200         658
+#OUT# 01 1 10               264600         659
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 01 1 10               265000         660
+#OUT# 01 0 10               265400         661
+#OUT# 10 1 10               265800         662
+#OUT# 11 0 10               266200         663
+#OUT# 10 0 10               266600         664
+#OUT# 01 1 10               267000         665
+#OUT# 00 1 10               267400         666
+#OUT# 11 1 10               267800         667
+#OUT# 10 0 10               268200         668
+#OUT# 00 1 10               268600         669
+#OUT# 01 1 10               269000         670
+#OUT# 10 1 10               269400         671
+#OUT# 11 0 10               269800         672
+#OUT# 11 1 01               270200         673
+#OUT# 01 1 01               270600         674
+#OUT# 01 0 01               271000         675
+#OUT# 11 1 10               271400         676
+#OUT# 11 0 10               271800         677
+#OUT# 10 0 10               272200         678
+#OUT# 00 1 10               272600         679
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 11 0 10               273000         680
+#OUT# 11 1 01               273400         681
+#OUT# 01 1 01               273800         682
+#OUT# 00 1 01               274200         683
+#OUT# 10 0 01               274600         684
+#OUT# 10 1 10               275000         685
+#OUT# 11 0 10               275400         686
+#OUT# 10 1 10               275800         687
+#OUT# 10 0 10               276200         688
+#OUT# 10 1 10               276600         689
+#OUT# 01 0 10               277000         690
+#OUT# 10 0 10               277400         691
+#OUT# 00 0 10               277800         692
+#OUT# 01 1 10               278200         693
+#OUT# 11 1 10               278600         694
+#OUT# 01 1 10               279000         695
+#OUT# 00 0 10               279400         696
+#OUT# 11 1 01               279800         697
+#OUT# 10 1 01               280200         698
+#OUT# 11 0 01               280600         699
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 00 0 01               281000         700
+#OUT# 00 1 10               281400         701
+#OUT# 01 0 10               281800         702
+#OUT# 01 1 10               282200         703
+#OUT# 01 0 10               282600         704
+#OUT# 00 0 10               283000         705
+#OUT# 10 1 10               283400         706
+#OUT# 01 1 10               283800         707
+#OUT# 01 1 10               284200         708
+#OUT# 10 1 10               284600         709
+#OUT# 10 0 10               285000         710
+#OUT# 00 1 10               285400         711
+#OUT# 10 1 10               285800         712
+#OUT# 00 1 10               286200         713
+#OUT# 00 1 10               286600         714
+#OUT# 10 1 10               287000         715
+#OUT# 00 1 10               287400         716
+#OUT# 00 0 10               287800         717
+#OUT# 11 0 10               288200         718
+#OUT# 01 1 10               288600         719
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 10 0 10               289000         720
+#OUT# 11 0 10               289400         721
+#OUT# 10 0 10               289800         722
+#OUT# 10 0 10               290200         723
+#OUT# 00 1 10               290600         724
+#OUT# 11 1 10               291000         725
+#OUT# 00 0 10               291400         726
+#OUT# 00 1 10               291800         727
+#OUT# 10 1 10               292200         728
+#OUT# 00 0 10               292600         729
+#OUT# 10 1 10               293000         730
+#OUT# 10 0 10               293400         731
+#OUT# 10 0 10               293800         732
+#OUT# 11 0 10               294200         733
+#OUT# 11 0 10               294600         734
+#OUT# 10 0 10               295000         735
+#OUT# 10 1 10               295400         736
+#OUT# 10 1 10               295800         737
+#OUT# 10 1 10               296200         738
+#OUT# 01 1 10               296600         739
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 10 1 10               297000         740
+#OUT# 00 1 10               297400         741
+#OUT# 00 0 10               297800         742
+#OUT# 10 1 10               298200         743
+#OUT# 01 1 10               298600         744
+#OUT# 10 1 10               299000         745
+#OUT# 00 0 10               299400         746
+#OUT# 00 0 10               299800         747
+#OUT# 00 1 10               300200         748
+#OUT# 01 0 10               300600         749
+#OUT# 11 0 10               301000         750
+#OUT# 01 1 10               301400         751
+#OUT# 10 1 10               301800         752
+#OUT# 00 0 10               302200         753
+#OUT# 00 0 10               302600         754
+#OUT# 00 1 10               303000         755
+#OUT# 10 1 10               303400         756
+#OUT# 01 1 10               303800         757
+#OUT# 11 0 10               304200         758
+#OUT# 10 1 10               304600         759
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 10 1 10               305000         760
+#OUT# 11 0 10               305400         761
+#OUT# 11 0 10               305800         762
+#OUT# 00 1 10               306200         763
+#OUT# 10 1 10               306600         764
+#OUT# 10 0 10               307000         765
+#OUT# 10 0 10               307400         766
+#OUT# 10 1 10               307800         767
+#OUT# 11 1 10               308200         768
+#OUT# 11 0 10               308600         769
+#OUT# 10 1 10               309000         770
+#OUT# 10 0 10               309400         771
+#OUT# 01 0 10               309800         772
+#OUT# 01 1 10               310200         773
+#OUT# 10 0 10               310600         774
+#OUT# 11 1 01               311000         775
+#OUT# 01 0 01               311400         776
+#OUT# 11 1 10               311800         777
+#OUT# 01 1 10               312200         778
+#OUT# 10 0 10               312600         779
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 00 0 10               313000         780
+#OUT# 00 1 10               313400         781
+#OUT# 01 0 10               313800         782
+#OUT# 10 1 10               314200         783
+#OUT# 11 1 10               314600         784
+#OUT# 00 0 10               315000         785
+#OUT# 00 1 10               315400         786
+#OUT# 11 1 10               315800         787
+#OUT# 00 0 10               316200         788
+#OUT# 11 1 01               316600         789
+#OUT# 01 1 01               317000         790
+#OUT# 01 0 01               317400         791
+#OUT# 11 1 10               317800         792
+#OUT# 00 0 10               318200         793
+#OUT# 00 0 10               318600         794
+#OUT# 01 1 10               319000         795
+#OUT# 01 0 10               319400         796
+#OUT# 01 1 10               319800         797
+#OUT# 10 1 10               320200         798
+#OUT# 11 0 10               320600         799
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 10 1 10               321000         800
+#OUT# 00 1 10               321400         801
+#OUT# 11 1 10               321800         802
+#OUT# 10 0 10               322200         803
+#OUT# 01 0 10               322600         804
+#OUT# 01 0 10               323000         805
+#OUT# 10 0 10               323400         806
+#OUT# 01 0 10               323800         807
+#OUT# 00 0 10               324200         808
+#OUT# 01 1 10               324600         809
+#OUT# 00 1 10               325000         810
+#OUT# 11 1 10               325400         811
+#OUT# 00 1 10               325800         812
+#OUT# 00 0 10               326200         813
+#OUT# 00 1 10               326600         814
+#OUT# 00 0 10               327000         815
+#OUT# 01 1 10               327400         816
+#OUT# 01 0 10               327800         817
+#OUT# 00 0 10               328200         818
+#OUT# 10 0 10               328600         819
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 00 1 10               329000         820
+#OUT# 10 0 10               329400         821
+#OUT# 10 1 10               329800         822
+#OUT# 10 1 10               330200         823
+#OUT# 01 0 10               330600         824
+#OUT# 01 1 10               331000         825
+#OUT# 01 1 10               331400         826
+#OUT# 11 1 10               331800         827
+#OUT# 00 0 10               332200         828
+#OUT# 10 0 10               332600         829
+#OUT# 00 1 10               333000         830
+#OUT# 01 0 10               333400         831
+#OUT# 10 1 10               333800         832
+#OUT# 00 1 10               334200         833
+#OUT# 00 0 10               334600         834
+#OUT# 10 0 10               335000         835
+#OUT# 11 1 01               335400         836
+#OUT# 00 1 01               335800         837
+#OUT# 00 0 01               336200         838
+#OUT# 10 0 01               336600         839
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 11 1 10               337000         840
+#OUT# 10 0 10               337400         841
+#OUT# 10 1 10               337800         842
+#OUT# 01 1 10               338200         843
+#OUT# 00 1 10               338600         844
+#OUT# 01 0 10               339000         845
+#OUT# 00 1 10               339400         846
+#OUT# 11 0 10               339800         847
+#OUT# 10 1 10               340200         848
+#OUT# 10 1 10               340600         849
+#OUT# 01 1 10               341000         850
+#OUT# 10 1 10               341400         851
+#OUT# 00 0 10               341800         852
+#OUT# 10 0 10               342200         853
+#OUT# 01 1 10               342600         854
+#OUT# 11 1 10               343000         855
+#OUT# 01 0 10               343400         856
+#OUT# 01 1 10               343800         857
+#OUT# 00 1 10               344200         858
+#OUT# 10 0 10               344600         859
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 01 0 10               345000         860
+#OUT# 01 0 10               345400         861
+#OUT# 01 1 10               345800         862
+#OUT# 01 1 10               346200         863
+#OUT# 00 1 10               346600         864
+#OUT# 10 0 10               347000         865
+#OUT# 11 1 01               347400         866
+#OUT# 11 0 01               347800         867
+#OUT# 00 1 10               348200         868
+#OUT# 00 0 10               348600         869
+#OUT# 01 1 10               349000         870
+#OUT# 00 0 10               349400         871
+#OUT# 01 1 10               349800         872
+#OUT# 01 0 10               350200         873
+#OUT# 01 1 10               350600         874
+#OUT# 11 0 10               351000         875
+#OUT# 10 0 10               351400         876
+#OUT# 11 0 10               351800         877
+#OUT# 11 0 10               352200         878
+#OUT# 10 1 10               352600         879
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 10 0 10               353000         880
+#OUT# 01 1 10               353400         881
+#OUT# 11 1 10               353800         882
+#OUT# 11 1 10               354200         883
+#OUT# 11 0 10               354600         884
+#OUT# 10 1 10               355000         885
+#OUT# 11 1 10               355400         886
+#OUT# 00 1 10               355800         887
+#OUT# 01 1 10               356200         888
+#OUT# 10 1 10               356600         889
+#OUT# 00 1 10               357000         890
+#OUT# 00 1 10               357400         891
+#OUT# 10 1 10               357800         892
+#OUT# 00 0 10               358200         893
+#OUT# 00 0 10               358600         894
+#OUT# 11 1 01               359000         895
+#OUT# 00 0 01               359400         896
+#OUT# 11 0 01               359800         897
+#OUT# 00 1 10               360200         898
+#OUT# 11 0 10               360600         899
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 00 1 10               361000         900
+#OUT# 01 0 10               361400         901
+#OUT# 01 1 10               361800         902
+#OUT# 00 1 10               362200         903
+#OUT# 10 1 10               362600         904
+#OUT# 01 1 10               363000         905
+#OUT# 10 1 10               363400         906
+#OUT# 10 0 10               363800         907
+#OUT# 10 0 10               364200         908
+#OUT# 11 1 01               364600         909
+#OUT# 11 0 01               365000         910
+#OUT# 00 1 10               365400         911
+#OUT# 01 1 10               365800         912
+#OUT# 10 1 10               366200         913
+#OUT# 01 1 10               366600         914
+#OUT# 00 1 10               367000         915
+#OUT# 11 0 10               367400         916
+#OUT# 01 1 10               367800         917
+#OUT# 11 0 10               368200         918
+#OUT# 10 1 10               368600         919
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 01 0 10               369000         920
+#OUT# 00 0 10               369400         921
+#OUT# 10 1 10               369800         922
+#OUT# 01 0 10               370200         923
+#OUT# 00 0 10               370600         924
+#OUT# 10 0 10               371000         925
+#OUT# 00 1 10               371400         926
+#OUT# 01 1 10               371800         927
+#OUT# 10 1 10               372200         928
+#OUT# 10 0 10               372600         929
+#OUT# 00 0 10               373000         930
+#OUT# 01 0 10               373400         931
+#OUT# 11 1 01               373800         932
+#OUT# 00 1 01               374200         933
+#OUT# 00 0 01               374600         934
+#OUT# 00 1 10               375000         935
+#OUT# 11 0 10               375400         936
+#OUT# 00 0 10               375800         937
+#OUT# 00 0 10               376200         938
+#OUT# 01 1 10               376600         939
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 01 0 10               377000         940
+#OUT# 01 0 10               377400         941
+#OUT# 10 0 10               377800         942
+#OUT# 10 1 10               378200         943
+#OUT# 11 1 10               378600         944
+#OUT# 10 0 10               379000         945
+#OUT# 11 0 10               379400         946
+#OUT# 10 1 10               379800         947
+#OUT# 00 1 10               380200         948
+#OUT# 00 1 10               380600         949
+#OUT# 10 1 10               381000         950
+#OUT# 11 1 10               381400         951
+#OUT# 01 1 10               381800         952
+#OUT# 01 0 10               382200         953
+#OUT# 00 0 10               382600         954
+#OUT# 11 1 01               383000         955
+#OUT# 11 1 01               383400         956
+#OUT# 10 1 01               383800         957
+#OUT# 10 1 01               384200         958
+#OUT# 10 1 01               384600         959
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 11 1 01               385000         960
+#OUT# 11 1 01               385400         961
+#OUT# 11 1 01               385800         962
+#OUT# 01 1 01               386200         963
+#OUT# 01 0 01               386600         964
+#OUT# 01 1 01               387000         965
+#OUT# 00 0 01               387400         966
+#OUT# 00 1 10               387800         967
+#OUT# 01 0 10               388200         968
+#OUT# 00 1 10               388600         969
+#OUT# 11 0 10               389000         970
+#OUT# 00 1 10               389400         971
+#OUT# 11 0 10               389800         972
+#OUT# 00 1 10               390200         973
+#OUT# 10 1 10               390600         974
+#OUT# 00 1 10               391000         975
+#OUT# 10 0 10               391400         976
+#OUT# 00 1 10               391800         977
+#OUT# 01 0 10               392200         978
+#OUT# 10 1 10               392600         979
+#OUT#
+#OUT#   A   sig_../toggle-re.aig_enable 
+#OUT#   B   sig_../toggle-re.aig_reset 
+#OUT#   C   sig_../toggle-re.aig_clk 
+#OUT#   D   sig_../toggle-re.aig_!Q 
+#OUT#   E   sig_../toggle-re.aig_Q 
+#OUT#
+#OUT# AB C DE
+#OUT# 01 0 10               393000         980
+#OUT# 00 0 10               393400         981
+#OUT# 11 0 10               393800         982
+#OUT# 10 1 10               394200         983
+#OUT# 10 1 10               394600         984
+#OUT# 11 1 10               395000         985
+#OUT# 11 1 10               395400         986
+#OUT# 01 1 10               395800         987
+#OUT# 00 1 10               396200         988
+#OUT# 11 0 10               396600         989
+#OUT# 11 0 10               397000         990
+#OUT# 01 1 10               397400         991
+#OUT# 11 1 10               397800         992
+#OUT# 00 0 10               398200         993
+#OUT# 00 1 10               398600         994
+#OUT# 11 0 10               399000         995
+#OUT# 11 1 01               399400         996
+#OUT# 01 0 01               399800         997
+#OUT# 00 1 10               400200         998
+#OUT# 11 0 10               400600         999
