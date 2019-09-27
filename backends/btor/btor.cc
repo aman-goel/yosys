@@ -39,7 +39,8 @@ struct BtorWorker
 	RTLIL::Module *module;
 	bool verbose;
 	bool single_bad;
-
+	bool encrypt = false;
+	
 	int next_nid = 1;
 	int initstate_nid = -1;
 
@@ -574,7 +575,7 @@ struct BtorWorker
 			int sid = get_bv_sid(GetSize(sig_q));
 			int nid = next_nid++;
 
-			if (symbol.empty())
+			if (encrypt || symbol.empty())
 				btorf("%d state %d\n", nid, sid);
 			else
 				btorf("%d state %d %s\n", nid, sid, log_id(symbol));
@@ -708,7 +709,7 @@ struct BtorWorker
 			int nid = next_nid++;
 			int nid_head = nid;
 
-			if (cell->name[0] == '$')
+			if (encrypt || cell->name[0] == '$')
 				btorf("%d state %d\n", nid, sid);
 			else
 				btorf("%d state %d %s\n", nid, sid, log_id(cell));
@@ -1001,7 +1002,10 @@ struct BtorWorker
 			int sid = get_bv_sid(GetSize(sig));
 			int nid = next_nid++;
 
-			btorf("%d input %d %s\n", nid, sid, log_id(wire));
+			if (encrypt)
+				btorf("%d input %d\n", nid, sid);
+			else
+				btorf("%d input %d %s\n", nid, sid, log_id(wire));
 			add_nid_sig(nid, sig);
 		}
 
@@ -1025,7 +1029,10 @@ struct BtorWorker
 			btorf_push(stringf("output %s", log_id(wire)));
 
 			int nid = get_sig_nid(wire);
-			btorf("%d output %d %s\n", next_nid++, nid, log_id(wire));
+			if (encrypt)
+				btorf("%d output %d\n", next_nid++, nid);
+			else
+				btorf("%d output %d %s\n", next_nid++, nid, log_id(wire));
 
 			btorf_pop(stringf("output %s", log_id(wire)));
 		}
@@ -1088,7 +1095,10 @@ struct BtorWorker
 				continue;
 
 			int this_nid = next_nid++;
-			btorf("%d uext %d %d %d %s\n", this_nid, sid, nid, 0, log_id(wire));
+			if (encrypt)
+				btorf("%d uext %d %d %d\n", this_nid, sid, nid, 0);
+			else
+				btorf("%d uext %d %d %d %s\n", this_nid, sid, nid, 0, log_id(wire));
 
 			btorf_pop(stringf("wire %s", log_id(wire)));
 			continue;
